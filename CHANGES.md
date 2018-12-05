@@ -7,6 +7,10 @@ New Features:
 
 * [#2598](https://github.com/ckeditor/ckeditor-dev/issues/2598): [Page Break](https://ckeditor.com/cke4/addon/pagebreak) feature support for [Paste from Word](https://ckeditor.com/cke4/addon/pastefromword) plugin.
 
+Fixed Issues:
+
+* [#1478](https://github.com/ckeditor/ckeditor-dev/issues/1478): Fixed: Custom colors added to [Color Button](https://ckeditor.com/cke4/addon/colorbutton) via [`colorButton_colors`](https://ckeditor.com/docs/ckeditor4/latest/api/CKEDITOR_config.html#cfg-colorButton_colors) in form label/code don't work correctly.
+
 API Changes:
 
 * [#1496](https://github.com/ckeditor/ckeditor-dev/issues/1496): [Balloon Toolbar](https://ckeditor.com/cke4/addon/balloontoolbar) exposed methods [`CKEDITOR.ui.balloonToolbar.reposition`](https://ckeditor.com/docs/ckeditor4/latest/api/CKEDITOR_ui_balloonToolbar.html#reposition) and [`CKEDITOR.ui.balloonToolbarView.reposition`](https://ckeditor.com/docs/ckeditor4/latest/api/CKEDITOR_ui_balloonToolbarView.html#reposition).
