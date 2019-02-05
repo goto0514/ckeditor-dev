@@ -6,6 +6,7 @@
 Fixed Issues:
 
 * [#2721](https://github.com/ckeditor/ckeditor-dev/issues/2721): Fixed: Sublist items are reversed when higher level list item is removed.
+* [#2780](https://github.com/ckeditor/ckeditor-dev/issues/2721): Fixed: Undo steps disappears after multiple change of selection.
 
 ## CKEditor 4.11.2
 
