@@ -6,6 +6,7 @@
 Fixed Issues:
 
 * [#2721](https://github.com/ckeditor/ckeditor-dev/issues/2721): Fixed: Sublist items are reversed when higher level list item is removed.
+* [#2292](https://github.com/ckeditor/ckeditor-dev/issues/2721): Fixed: Dropping list with link on editor's margin cause console error and removing dragged text from editor.
 
 ## CKEditor 4.11.2
 
